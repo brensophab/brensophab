@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @brensophab
-- 👀 I’m interested in developing the skills to be an effective Software Engineer
+- 👀 I’m interested in developing the skills to be an effective Software Engineer!
 - 🌱 I’m currently learning Java, Python, Databases, and front end!
 - 📫 Connect with me on LinkedIn https://www.linkedin.com/in/brensophab/
 
